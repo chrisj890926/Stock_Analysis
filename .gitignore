@@ -1,0 +1,4 @@
+libtensorflow_cc.2.dylib
+stock_predict/build/
+stock_predict/dist/
+libclang.dylib
